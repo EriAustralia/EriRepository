@@ -1,0 +1,4 @@
+emet
+! で
+ul>li*3
+ctrl + h で置換
